@@ -2,7 +2,7 @@
 
 .gallery {
   max-width: 100%;
-  margin-bottom: 92px;
+  margin-bottom: 100px;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(3, 1fr);
