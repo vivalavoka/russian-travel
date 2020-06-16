@@ -4,3 +4,10 @@
   display: flex;
   flex-direction: column;
 }
+
+@media (max-width: 1024px) {
+  .places {
+    max-width: 100%;
+  }
+}
+

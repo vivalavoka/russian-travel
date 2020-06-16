@@ -10,3 +10,11 @@
   height: 740px;
   margin: 0 auto 92px;
 }
+
+@media (max-width: 1024px) {
+  .cover {
+    max-width: calc(100% + 96px);
+    margin: 0 -48px 92px;
+  }
+}
+

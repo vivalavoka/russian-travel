@@ -5,6 +5,12 @@
 @import url(./__bold/description__bold.css);
 
 .description {
-  width: 83%;
+  max-width: 83%;
   margin: 0 auto 92px;
+}
+
+@media (max-width: 1024px) {
+  .description {
+    max-width: 100%;
+  }
 }
