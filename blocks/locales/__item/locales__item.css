@@ -7,3 +7,10 @@
   font-style: normal;
   box-sizing: border-box;
 }
+
+@media (max-width: 320px) {
+  .locales__item {
+    font-size: 18px;
+    line-height: 24px;
+  }
+}

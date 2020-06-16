@@ -25,7 +25,17 @@
 
 @media (max-width: 768px) {
   .place {
+    margin-bottom: 72px;
     grid-column-gap: 28px;
+  }
+}
+
+@media (max-width: 320px) {
+  .place {
+    margin-bottom: 48px;
+    grid-template-columns: repeat(1, fit-content(460px));
+    grid-template-rows: repeat(2, minmax(min-content, max-content));
+    grid-row-gap: 32px;
   }
 }
 

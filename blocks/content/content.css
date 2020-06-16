@@ -9,3 +9,9 @@
     padding: 0 24px;
   }
 }
+
+@media (max-width: 320px) {
+  .content {
+    padding: 0 16px;
+  }
+}

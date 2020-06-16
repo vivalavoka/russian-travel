@@ -1,3 +1,8 @@
 .locales__link {
   text-decoration: none;
+  margin-right: 18px;
+}
+
+.locales__link:last-of-type {
+  margin-right: 0;
 }

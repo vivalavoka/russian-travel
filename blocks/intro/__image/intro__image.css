@@ -10,3 +10,10 @@
     margin: 0 -24px 0;
   }
 }
+
+@media (max-width: 320px) {
+  .intro__image {
+    max-width: calc(100% + 32px);
+    margin: 0 -16px 0;
+  }
+}

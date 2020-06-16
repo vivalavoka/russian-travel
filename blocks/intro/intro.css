@@ -13,3 +13,15 @@
     max-width: 100%;
   }
 }
+
+@media (max-width: 768px) {
+  .intro {
+    margin: 0 auto 88px;
+  }
+}
+
+@media (max-width: 768px) {
+  .intro {
+    margin: 0 auto 64px;
+  }
+}
