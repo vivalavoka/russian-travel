@@ -1,0 +1,10 @@
+@import url(./__photo/gallery__photo.css);
+
+.gallery {
+  max-width: 100%;
+  margin-bottom: 92px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-gap: 16px;
+}
