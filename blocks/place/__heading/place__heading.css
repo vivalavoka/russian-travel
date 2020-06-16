@@ -1,9 +1,9 @@
 .place__heading {
-  margin: 0 0 12px;
+  margin: 0 0 6px;
   padding: 0;
   color: #AAA;
   font-size: 12px;
-  line-height: 12px;
+  line-height: 20px;
   font-weight: normal;
   letter-spacing: 0.2em;
 }

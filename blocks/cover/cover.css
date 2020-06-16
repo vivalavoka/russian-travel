@@ -18,3 +18,9 @@
   }
 }
 
+@media (max-width: 768px) {
+  .cover {
+    max-width: calc(100% + 48px);
+    margin: 0 -24px 88px;
+  }
+}
