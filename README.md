@@ -1,5 +1,7 @@
 # Проект 3: Путешествие по России
 
+[Github Pages](https://vivalavoka.github.io/russian-travel/index.html)
+
 ### Обзор
 * Интро
 * Figma
