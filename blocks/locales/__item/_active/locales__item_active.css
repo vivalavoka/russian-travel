@@ -1,0 +1,5 @@
+.locales__item_active {
+  /* text-decoration-line: underline;
+  -moz-text-decoration-line: underline; */
+  border-bottom: 2px solid;
+}

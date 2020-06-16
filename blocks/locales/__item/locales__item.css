@@ -1,0 +1,9 @@
+@import url(./_active/locales__item_active.css);
+
+.locales__item {
+  color: #FFFFFF;
+  font-size: 24px;
+  line-height: 28px;
+  font-style: normal;
+  box-sizing: border-box;
+}
