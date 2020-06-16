@@ -1,3 +1,5 @@
+@import url(./__overlay/cover__overlay.css);
+@import url(./__info/cover__info.css);
 @import url(./__title/cover__title.css);
 @import url(./__subtitle/cover__subtitle.css);
 @import url(./__background/cover__background.css);
@@ -5,5 +7,6 @@
 .cover {
   position: relative;
   max-width: 100%;
+  max-height: 740px;
   margin: 0 auto 92px;
 }
