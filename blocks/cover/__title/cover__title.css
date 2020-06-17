@@ -1,4 +1,6 @@
 .cover__title {
+  position: relative;
+  z-index: 1;
   max-width: 560px;
   margin: 0 0 32px;
   padding: 0;
