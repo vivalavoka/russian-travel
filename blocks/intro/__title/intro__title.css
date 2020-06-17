@@ -9,6 +9,18 @@
   font-weight: 900;
 }
 
+@media (max-width: 768px) {
+  .intro__title {
+    font-size: 68px;
+  }
+}
+
+@media (max-width: 570px) {
+  .intro__title {
+    font-size: 54px;
+  }
+}
+
 @media (max-width: 425px) {
   .intro__title {
     font-size: 40px;

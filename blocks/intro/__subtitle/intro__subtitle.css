@@ -8,6 +8,13 @@
   font-weight: normal;
 }
 
+@media (max-width: 768px) {
+  .intro__subtitle {
+    margin: 0 auto 40px;
+    font-size: 23px;
+  }
+}
+
 @media (max-width: 425px) {
   .intro__subtitle {
     margin: 0 auto 40px;
