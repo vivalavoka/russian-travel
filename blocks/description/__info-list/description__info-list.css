@@ -1,4 +1,8 @@
 .description__info-list {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
   max-width: 690px;
   list-style: none;
   margin: 0;

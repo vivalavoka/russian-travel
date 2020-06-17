@@ -1,4 +1,8 @@
 .cover__subtitle {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
   max-width: 360px;
   margin: 0;
   padding: 0;
