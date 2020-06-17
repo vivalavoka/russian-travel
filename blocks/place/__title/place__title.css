@@ -4,20 +4,18 @@
   align-self: end;
   color: #FFF;
   font-size: 72px;
-  line-height: 76px;
+  line-height: 1.1;
   font-weight: 900;
 }
 
 @media (max-width: 768px) {
   .place__title {
     font-size: 42px;
-    line-height: 46px;
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 425px) {
   .place__title {
     font-size: 32px;
-    line-height: 35px;
   }
 }

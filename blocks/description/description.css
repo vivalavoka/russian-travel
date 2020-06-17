@@ -15,7 +15,7 @@
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 425px) {
   .description {
     margin: 0 auto 64px;
   }
