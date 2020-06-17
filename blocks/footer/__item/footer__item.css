@@ -3,11 +3,7 @@
   padding: 0;
 }
 
-.footer__item:last-of-type {
-  margin-right: 0;
-}
-
-@media (max-width: 425px) {
+@media (max-width: 730px) {
   .footer__item {
     margin-right: 0;
     margin-bottom: 32px;

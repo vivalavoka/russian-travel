@@ -9,7 +9,7 @@
   align-items: center;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 730px) {
   .footer__list {
     margin-bottom: 16px;
     flex-direction: column;
