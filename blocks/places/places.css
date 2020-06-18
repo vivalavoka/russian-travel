@@ -1,3 +1,5 @@
+@import url(./__list/places__list.css);
+
 .places {
   max-width: 83%;
   margin: 0 auto;
