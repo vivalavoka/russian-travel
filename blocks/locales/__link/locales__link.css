@@ -1,8 +1,16 @@
+@import url(./_active/locales__link_active.css);
+
 .locales__link {
+  color: #FFFFFF;
+  font-size: 24px;
+  line-height: 1.16;
+  font-style: normal;
+  box-sizing: border-box;
   text-decoration: none;
-  margin-right: 18px;
 }
 
-.locales__link:last-of-type {
-  margin-right: 0;
+@media (max-width: 425px) {
+  .locales__link {
+    font-size: 18px;
+  }
 }
