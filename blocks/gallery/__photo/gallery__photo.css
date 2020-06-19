@@ -1,5 +1,24 @@
 .gallery__photo {
+  width: 100%;
+  min-height: 213px;
   object-fit: cover;
-  overflow: hidden;
-  max-width: 100%;
 }
+
+@media (max-width: 1024px) {
+  .gallery__photo {
+    min-height: 225px;
+  }
+}
+
+@media (max-width: 768px) {
+  .gallery__photo {
+    min-height: 264px;
+  }
+}
+
+@media (max-width: 425px) {
+  .gallery__photo {
+    min-height: 216px;
+  }
+}
+

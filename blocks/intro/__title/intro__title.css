@@ -10,12 +10,6 @@
   transition: font-size 0.2s;
 }
 
-@media (max-width: 768px) {
-  .intro__title {
-    font-size: 68px;
-  }
-}
-
 @media (max-width: 570px) {
   .intro__title {
     font-size: 54px;

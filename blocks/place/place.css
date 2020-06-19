@@ -19,12 +19,14 @@
 
 @media (max-width: 1024px) {
   .place {
+    grid-template-columns: repeat(2, fit-content(440px));
     grid-column-gap: 32px;
   }
 }
 
 @media (max-width: 768px) {
   .place {
+    grid-template-columns: repeat(2, fit-content(340px));
     margin-bottom: 72px;
     grid-column-gap: 28px;
   }
