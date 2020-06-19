@@ -1,6 +1,6 @@
 @import url(../vendor/normalize.css);
 
-@import url(../blocks/fonts/fonts.css);
+@import url(../vendor/fonts/fonts.css);
 
 @import url(../blocks/figure-image/figure-image.css);
 
