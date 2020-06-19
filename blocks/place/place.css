@@ -32,7 +32,7 @@
   }
 }
 
-@media (max-width: 570px) {
+@media (max-width: 590px) {
   .place {
     margin-bottom: 48px;
     grid-template-columns: repeat(1, fit-content(570px));
