@@ -1,13 +1,21 @@
 .intro__image {
   max-width: 100%;
   margin: auto;
-  object-fit: cover;
+  object-fit: contain;
+  height: 615px;
+}
+
+@media (max-width: 1024px) {
+  .intro__image {
+    height: 580px;
+  }
 }
 
 @media (max-width: 768px) {
   .intro__image {
     max-width: calc(100% + 48px);
     margin: 0 -24px 0;
+    height: 480px;
   }
 }
 
@@ -15,5 +23,6 @@
   .intro__image {
     max-width: calc(100% + 32px);
     margin: 0 -16px 0;
+    height: 200px;
   }
 }
