@@ -1,5 +1,4 @@
 .cover__subtitle {
-  position: relative;
   z-index: 1;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;

@@ -1,5 +1,11 @@
-@import url(./__list/locales__list.css);
-
+@import url(./__item/locales__item.css);
 @import url(./__link/locales__link.css);
 
-@import url(./__item/locales__item.css);
+.locales {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
