@@ -1,0 +1,18 @@
+.video__title {
+  color: #FFF;
+  max-width: 800px;
+  margin: 0 auto 48px;
+}
+
+@media (max-width: 768px) {
+  .video__title {
+    max-width: 443px;
+    margin: 0 auto 31px;
+  }
+}
+
+@media (max-width: 375px) {
+  .video__title {
+    margin: 0 auto 16px;
+  }
+}

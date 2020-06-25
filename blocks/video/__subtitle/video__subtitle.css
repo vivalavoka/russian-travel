@@ -1,0 +1,17 @@
+.video__subtitle {
+  color: #FFF;
+  max-width: 640px;
+  margin: 0 auto 72px;
+}
+
+@media (max-width: 768px) {
+  .video__subtitle {
+    margin: 0 auto 56px;
+  }
+}
+
+@media (max-width: 375px) {
+  .video__subtitle {
+    margin: 0 auto 24px;
+  }
+}

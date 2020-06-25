@@ -1,0 +1,14 @@
+.video__item-title {
+  margin: 0 0 18px;
+  font-size: 36px;
+  line-height: 1.1;
+  font-weight: 900;
+  color: #FFF;
+}
+
+@media (max-width: 768px) {
+  .video__item-title {
+    margin-bottom: 12px;
+    font-size: 24px;
+  }
+}

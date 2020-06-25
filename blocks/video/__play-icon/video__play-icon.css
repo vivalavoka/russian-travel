@@ -1,0 +1,9 @@
+.video__play-icon {
+  object-fit: contain;
+  transform-origin: 50% 50%;
+  transition: transform .2s;
+}
+
+.video__play-icon:hover {
+  transform: scale(1.2);
+}

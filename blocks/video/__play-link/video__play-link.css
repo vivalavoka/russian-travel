@@ -1,0 +1,6 @@
+.video__play-link {
+  text-decoration: none;
+  display: inline-block;
+  width: 41px;
+  border-radius: 50%;
+}
