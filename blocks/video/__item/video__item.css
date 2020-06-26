@@ -3,4 +3,23 @@
   width: 100%;
   border-radius: 5px;
   overflow: hidden;
+  height: 323px;
+}
+
+@media (max-width: 1024px) {
+  .video__item {
+    height: 288px;
+  }
+}
+
+@media (max-width: 768px) {
+  .video__item {
+    height: 200px;
+  }
+}
+
+@media (max-width: 320px) {
+  .video__item {
+    height: 192px;
+  }
 }

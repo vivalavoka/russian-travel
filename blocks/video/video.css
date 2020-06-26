@@ -12,6 +12,7 @@
 @import url(./__item-subtitle/video__item-subtitle.css);
 
 .video {
+  max-width: 100%;
   margin-bottom: 102px;
 }
 
