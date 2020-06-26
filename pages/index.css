@@ -4,6 +4,7 @@
 
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/section-list/section-list.css);
 
 @import url(../blocks/figure-image/figure-image.css);
 
@@ -28,6 +29,10 @@
 @import url(../blocks/place/place.css);
 
 @import url(../blocks/video/video.css);
+
+@import url(../blocks/comments/comments.css);
+
+@import url(../blocks/comment/comment.css);
 
 @import url(../blocks/cover/cover.css);
 

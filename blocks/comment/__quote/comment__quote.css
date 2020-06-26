@@ -1,0 +1,21 @@
+.comment__quote {
+  margin: 0;
+  padding: 0;
+  color: #FFF;
+  font-size: 14px;
+  line-height: 1.7;
+  font-weight: normal;
+}
+
+.comment__quote::before {
+  content: open-quote;
+}
+.comment__quote::after {
+  content: close-quote;
+}
+
+@media (max-width: 768px) {
+  .comment__quote {
+    grid-row: -2;
+  }
+}

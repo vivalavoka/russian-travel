@@ -1,3 +1,7 @@
+@import url(./_color/section-subtitle_color_white.css);
+@import url(./_color/section-subtitle_color_black.css);
+@import url(./_align/section-subtitle_align_center.css);
+
 .section-subtitle {
   margin: 0;
   padding: 0;

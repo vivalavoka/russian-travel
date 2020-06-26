@@ -1,11 +1,7 @@
 .intro__subtitle {
   margin: 0 auto 64px;
   max-width: 640px;
-  color: #FFF;
-  text-align: center;
   font-size: 30px;
-  line-height: 1.2;
-  font-weight: normal;
   transition: font-size 0.2s;
 }
 

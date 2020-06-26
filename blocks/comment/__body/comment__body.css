@@ -1,0 +1,13 @@
+.comment__body {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(2, min-content);
+  gap: 16px;
+  text-align: start;
+}
+
+@media (max-width: 768px) {
+  .comment__body {
+    gap: 24px;
+  }
+}

@@ -1,0 +1,19 @@
+.comments__item {
+  max-width: 382px;
+  margin-right: 19px;
+}
+
+.comments__item:last-of-type {
+  margin-right: 0;
+}
+
+@media (max-width: 768px) {
+  .comments__item {
+    margin-right: 0;
+    margin-bottom: 47px;
+  }
+
+  .comments__item:last-of-type {
+    margin-bottom: 0;
+  }
+}

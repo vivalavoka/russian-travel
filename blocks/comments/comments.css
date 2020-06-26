@@ -1,0 +1,15 @@
+@import url(./__title/comments__title.css);
+@import url(./__subtitle/comments__subtitle.css);
+@import url(./__list/comments__list.css);
+@import url(./__item/comments__item.css);
+
+.comments {
+  width: 100%;
+  margin-bottom: 102px;
+}
+
+@media (max-width: 375px) {
+  .comments {
+    margin-bottom: 48px;
+}
+}
