@@ -27,8 +27,3 @@
 .video__play-link:hover .video__item-bg {
   transform: scale(1.2);
 }
-
-.video__play-link:hover .video__play-icon {
-  transform: scale(1.2);
-}
-
